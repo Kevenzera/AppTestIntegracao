@@ -15,3 +15,5 @@ test("Divisão 50/2 esperado 25 como resultado", () => {
 test("Subtração 100-2 esperado 50 como resultado", () => {
     expect(contas.subtracao(100,2)).toBe(98)
 })
+
+// COMENTANDO 
